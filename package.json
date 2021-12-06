@@ -1,0 +1,22 @@
+{
+    "name": "buche_bot",
+    "version": "1.0.0",
+    "description": "Le super bot de notre chaine twitch!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github-perso:BhertProject/buche_bot.git"
+    },
+    "keywords": [
+        "bot",
+        "twitch"
+    ],
+    "author": "#desbuchesetducode",
+    "license": "ISC",
+    "dependencies": {
+        "tmi.js": "^1.8.5"
+    }
+}
