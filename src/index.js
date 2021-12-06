@@ -5,8 +5,8 @@ require("dotenv").config();
 // Define configuration options
 const opts = {
     identity: {
-        username: "Buche",
-        password: "SUPER_PASSWORD_TROP_FORT",
+        username: process.env.BOT_USERNAME,
+        password: process.env.OAUTH_TOKEN,
     },
     channels: ["desbuchesetducode"],
 };
