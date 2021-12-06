@@ -17,6 +17,7 @@
     "author": "#desbuchesetducode",
     "license": "ISC",
     "dependencies": {
+        "dotenv": "^10.0.0",
         "tmi.js": "^1.8.5"
     }
 }
