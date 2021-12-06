@@ -1,0 +1,12 @@
+github action sur le cluster
+
+plusieur branche dans le github
+
+pas d'action sur certaine commande si la chaine n'est pas en live
+
+app meteo
+    !meteo [pays] [city]
+
+un bandeau discret avec une phrase defini par une personne du chat
+
+
